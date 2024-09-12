@@ -1,0 +1,3 @@
+codigo nombre  precio  stock_real102;fideos;5.0;20
+codigo nombre  precio  stock_real135;lentejas;8.0;15
+codigo nombre  precio  stock_real140;sal gruesa;5.0;8
